@@ -25,3 +25,7 @@ names, of what is not public; one match and nothing is written. If GitHub does n
 nothing, because no answer is not the same as no change.
 
 Provided as is, without warranty.
+
+## Licence
+
+The code is under the MIT licence (see LICENSE). The ledgers and tables this repository itself produces are under CC BY 4.0: use them, and say where they came from. Data belonging to others keeps its own licence, named beside it.
