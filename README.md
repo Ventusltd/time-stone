@@ -28,4 +28,4 @@ Provided as is, without warranty.
 
 ## Licence
 
-The code is under the MIT licence (see LICENSE). The ledgers and tables this repository itself produces are under CC BY 4.0: use them, and say where they came from. Data belonging to others keeps its own licence, named beside it.
+Open to all. The code is under the Apache License 2.0 (see LICENSE). Original text, tables and ledgers produced by this repository are under CC BY 4.0: use them, and say where they came from. Material belonging to others keeps its own licence, named beside it; standards are cited by clause and value and never reproduced.
