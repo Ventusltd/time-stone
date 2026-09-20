@@ -50,11 +50,12 @@ Rebuilt by `tools/watch.py` from `ledger.tsv` and `site.tsv`. Newest change firs
 
 | repository | last pushed (UTC) |
 |---|---|
-| [particle-physics-drawing-engine](https://github.com/Ventusltd/particle-physics-drawing-engine) | 2026-09-20 05:00:04 |
+| [particle-physics-drawing-engine](https://github.com/Ventusltd/particle-physics-drawing-engine) | 2026-09-20 09:40:55 |
+| [star-solar-star](https://github.com/Ventusltd/star-solar-star) | 2026-09-20 07:54:51 |
+| [stars](https://github.com/Ventusltd/stars) | 2026-09-20 06:59:28 |
+| [ventus-grid-engine](https://github.com/Ventusltd/ventus-grid-engine) | 2026-09-20 06:03:54 |
 | [globalgrid2050](https://github.com/Ventusltd/globalgrid2050) | 2026-09-20 03:00:03 |
-| [stars](https://github.com/Ventusltd/stars) | 2026-09-20 01:36:55 |
 | [site-energy](https://github.com/Ventusltd/site-energy) | 2026-09-20 01:28:43 |
-| [ventus-grid-engine](https://github.com/Ventusltd/ventus-grid-engine) | 2026-09-20 00:58:48 |
 | [substations](https://github.com/Ventusltd/substations) | 2026-09-20 00:27:08 |
 | [spiders](https://github.com/Ventusltd/spiders) | 2026-09-19 19:31:30 |
 | [testcode](https://github.com/Ventusltd/testcode) | 2026-09-19 19:31:02 |
@@ -64,7 +65,6 @@ Rebuilt by `tools/watch.py` from `ledger.tsv` and `site.tsv`. Newest change firs
 | [layout-tool](https://github.com/Ventusltd/layout-tool) | 2026-09-19 19:26:10 |
 | [gpu-drivers-for-global-grid](https://github.com/Ventusltd/gpu-drivers-for-global-grid) | 2026-09-19 19:25:37 |
 | [132kV](https://github.com/Ventusltd/132kV) | 2026-09-19 18:09:43 |
-| [star-solar-star](https://github.com/Ventusltd/star-solar-star) | 2026-09-19 07:31:34 |
 | [star-electron-star](https://github.com/Ventusltd/star-electron-star) | 2026-09-17 00:37:46 |
 | [elements](https://github.com/Ventusltd/elements) | 2026-09-15 19:32:08 |
 | [star-sector-star](https://github.com/Ventusltd/star-sector-star) | 2026-09-15 01:51:18 |
