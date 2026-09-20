@@ -24,7 +24,7 @@ Rebuilt by `tools/watch.py` from `ledger.tsv` and `site.tsv`. Newest change firs
 
 | repository | last pushed (UTC) |
 |---|---|
-| [kuiper-belt](https://github.com/Ventusltd/kuiper-belt) | 2026-09-20 11:33:05 |
+| [kuiper-belt](https://github.com/Ventusltd/kuiper-belt) | 2026-09-20 16:13:49 |
 | [cosmic](https://github.com/Ventusltd/cosmic) | 2026-09-19 18:09:40 |
 
 ## wafer
@@ -50,10 +50,10 @@ Rebuilt by `tools/watch.py` from `ledger.tsv` and `site.tsv`. Newest change firs
 
 | repository | last pushed (UTC) |
 |---|---|
+| [stars](https://github.com/Ventusltd/stars) | 2026-09-20 16:53:34 |
+| [particle-physics-drawing-engine](https://github.com/Ventusltd/particle-physics-drawing-engine) | 2026-09-20 16:40:53 |
+| [ventus-grid-engine](https://github.com/Ventusltd/ventus-grid-engine) | 2026-09-20 15:57:43 |
 | [solar-panels](https://github.com/Ventusltd/solar-panels) | 2026-09-20 13:53:09 |
-| [particle-physics-drawing-engine](https://github.com/Ventusltd/particle-physics-drawing-engine) | 2026-09-20 13:40:54 |
-| [stars](https://github.com/Ventusltd/stars) | 2026-09-20 12:39:20 |
-| [ventus-grid-engine](https://github.com/Ventusltd/ventus-grid-engine) | 2026-09-20 11:11:58 |
 | [solar-dc-string-wiring-and-topology](https://github.com/Ventusltd/solar-dc-string-wiring-and-topology) | 2026-09-20 10:46:16 |
 | [star-solar-star](https://github.com/Ventusltd/star-solar-star) | 2026-09-20 07:54:51 |
 | [globalgrid2050](https://github.com/Ventusltd/globalgrid2050) | 2026-09-20 03:00:03 |
