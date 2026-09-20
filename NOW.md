@@ -50,10 +50,11 @@ Rebuilt by `tools/watch.py` from `ledger.tsv` and `site.tsv`. Newest change firs
 
 | repository | last pushed (UTC) |
 |---|---|
-| [particle-physics-drawing-engine](https://github.com/Ventusltd/particle-physics-drawing-engine) | 2026-09-20 20:54:43 |
-| [globalgrid2050](https://github.com/Ventusltd/globalgrid2050) | 2026-09-20 20:50:58 |
-| [stars](https://github.com/Ventusltd/stars) | 2026-09-20 19:34:02 |
-| [ventus-grid-engine](https://github.com/Ventusltd/ventus-grid-engine) | 2026-09-20 18:41:56 |
+| [particle-physics-drawing-engine](https://github.com/Ventusltd/particle-physics-drawing-engine) | 2026-09-20 23:17:17 |
+| [globalgrid2050](https://github.com/Ventusltd/globalgrid2050) | 2026-09-20 23:15:36 |
+| [gpu-drivers-for-global-grid](https://github.com/Ventusltd/gpu-drivers-for-global-grid) | 2026-09-20 23:02:38 |
+| [stars](https://github.com/Ventusltd/stars) | 2026-09-20 22:33:46 |
+| [ventus-grid-engine](https://github.com/Ventusltd/ventus-grid-engine) | 2026-09-20 21:27:08 |
 | [solar-panels](https://github.com/Ventusltd/solar-panels) | 2026-09-20 13:53:09 |
 | [solar-dc-string-wiring-and-topology](https://github.com/Ventusltd/solar-dc-string-wiring-and-topology) | 2026-09-20 10:46:16 |
 | [star-solar-star](https://github.com/Ventusltd/star-solar-star) | 2026-09-20 07:54:51 |
@@ -65,7 +66,6 @@ Rebuilt by `tools/watch.py` from `ledger.tsv` and `site.tsv`. Newest change firs
 | [star-maker](https://github.com/Ventusltd/star-maker) | 2026-09-19 19:29:09 |
 | [teleprinter](https://github.com/Ventusltd/teleprinter) | 2026-09-19 19:26:49 |
 | [layout-tool](https://github.com/Ventusltd/layout-tool) | 2026-09-19 19:26:10 |
-| [gpu-drivers-for-global-grid](https://github.com/Ventusltd/gpu-drivers-for-global-grid) | 2026-09-19 19:25:37 |
 | [132kV](https://github.com/Ventusltd/132kV) | 2026-09-19 18:09:43 |
 | [star-electron-star](https://github.com/Ventusltd/star-electron-star) | 2026-09-17 00:37:46 |
 | [elements](https://github.com/Ventusltd/elements) | 2026-09-15 19:32:08 |
