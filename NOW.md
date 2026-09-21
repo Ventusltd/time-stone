@@ -50,11 +50,14 @@ Rebuilt by `tools/watch.py` from `ledger.tsv` and `site.tsv`. Newest change firs
 
 | repository | last pushed (UTC) |
 |---|---|
-| [particle-physics-drawing-engine](https://github.com/Ventusltd/particle-physics-drawing-engine) | 2026-09-20 23:17:17 |
-| [globalgrid2050](https://github.com/Ventusltd/globalgrid2050) | 2026-09-20 23:15:36 |
-| [gpu-drivers-for-global-grid](https://github.com/Ventusltd/gpu-drivers-for-global-grid) | 2026-09-20 23:02:38 |
-| [stars](https://github.com/Ventusltd/stars) | 2026-09-20 22:33:46 |
-| [ventus-grid-engine](https://github.com/Ventusltd/ventus-grid-engine) | 2026-09-20 21:27:08 |
+| [worlds-](https://github.com/Ventusltd/worlds-) | 2026-09-21 00:56:23 |
+| [grid-distance-maths](https://github.com/Ventusltd/grid-distance-maths) | 2026-09-21 00:41:09 |
+| [particle-physics-drawing-engine](https://github.com/Ventusltd/particle-physics-drawing-engine) | 2026-09-21 00:40:55 |
+| [stars](https://github.com/Ventusltd/stars) | 2026-09-21 00:30:36 |
+| [ventus-grid-engine](https://github.com/Ventusltd/ventus-grid-engine) | 2026-09-21 00:07:57 |
+| [gpu-drivers-for-global-grid](https://github.com/Ventusltd/gpu-drivers-for-global-grid) | 2026-09-21 00:06:08 |
+| [data-gpu-holy-mother](https://github.com/Ventusltd/data-gpu-holy-mother) | 2026-09-20 23:57:44 |
+| [globalgrid2050](https://github.com/Ventusltd/globalgrid2050) | 2026-09-20 23:21:47 |
 | [solar-panels](https://github.com/Ventusltd/solar-panels) | 2026-09-20 13:53:09 |
 | [solar-dc-string-wiring-and-topology](https://github.com/Ventusltd/solar-dc-string-wiring-and-topology) | 2026-09-20 10:46:16 |
 | [star-solar-star](https://github.com/Ventusltd/star-solar-star) | 2026-09-20 07:54:51 |
@@ -84,7 +87,6 @@ Rebuilt by `tools/watch.py` from `ledger.tsv` and `site.tsv`. Newest change firs
 | [cable-trench-or-drill](https://github.com/Ventusltd/cable-trench-or-drill) | 2026-09-06 04:33:28 |
 | [linux-for-the-power-grid](https://github.com/Ventusltd/linux-for-the-power-grid) | 2026-09-05 18:04:02 |
 | [globalgrid2050-homepage](https://github.com/Ventusltd/globalgrid2050-homepage) | 2026-09-05 03:34:53 |
-| [grid-distance-maths](https://github.com/Ventusltd/grid-distance-maths) | 2026-09-05 03:34:50 |
 | [ventusltd.com](https://github.com/Ventusltd/ventusltd.com) | 2026-09-05 00:37:55 |
 | [studies](https://github.com/Ventusltd/studies) | 2026-09-04 23:16:11 |
 | [seed-data](https://github.com/Ventusltd/seed-data) | 2026-09-04 23:12:19 |
