@@ -24,6 +24,7 @@ Rebuilt by `tools/watch.py` from `ledger.tsv` and `site.tsv`. Newest change firs
 
 | repository | last pushed (UTC) |
 |---|---|
+| [kuiper-ship](https://github.com/Ventusltd/kuiper-ship) | 2026-09-21 16:29:43 |
 | [kuiper-belt](https://github.com/Ventusltd/kuiper-belt) | 2026-09-21 12:58:01 |
 | [cosmic](https://github.com/Ventusltd/cosmic) | 2026-09-19 18:09:40 |
 
@@ -50,12 +51,13 @@ Rebuilt by `tools/watch.py` from `ledger.tsv` and `site.tsv`. Newest change firs
 
 | repository | last pushed (UTC) |
 |---|---|
-| [worlds-](https://github.com/Ventusltd/worlds-) | 2026-09-21 14:08:15 |
-| [globalgrid2050](https://github.com/Ventusltd/globalgrid2050) | 2026-09-21 14:08:13 |
-| [particle-physics-drawing-engine](https://github.com/Ventusltd/particle-physics-drawing-engine) | 2026-09-21 13:40:53 |
+| [particle-physics-drawing-engine](https://github.com/Ventusltd/particle-physics-drawing-engine) | 2026-09-21 18:40:58 |
+| [stars](https://github.com/Ventusltd/stars) | 2026-09-21 17:13:59 |
+| [ventus-grid-engine](https://github.com/Ventusltd/ventus-grid-engine) | 2026-09-21 16:58:54 |
+| [worlds-](https://github.com/Ventusltd/worlds-) | 2026-09-21 16:00:01 |
+| [globalgrid2050](https://github.com/Ventusltd/globalgrid2050) | 2026-09-21 15:16:07 |
+| [trillion-loop](https://github.com/Ventusltd/trillion-loop) | 2026-09-21 14:51:06 |
 | [spiders](https://github.com/Ventusltd/spiders) | 2026-09-21 12:47:12 |
-| [stars](https://github.com/Ventusltd/stars) | 2026-09-21 11:06:54 |
-| [ventus-grid-engine](https://github.com/Ventusltd/ventus-grid-engine) | 2026-09-21 10:36:54 |
 | [star-solar-star](https://github.com/Ventusltd/star-solar-star) | 2026-09-21 08:11:29 |
 | [grid-distance-maths](https://github.com/Ventusltd/grid-distance-maths) | 2026-09-21 00:41:09 |
 | [gpu-drivers-for-global-grid](https://github.com/Ventusltd/gpu-drivers-for-global-grid) | 2026-09-21 00:06:08 |
