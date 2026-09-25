@@ -13,20 +13,20 @@ Rebuilt by `tools/watch.py` from `ledger.tsv` and `site.tsv`. Newest change firs
 
 | repository | last pushed (UTC) |
 |---|---|
+| [sld](https://github.com/Ventusltd/sld) | 2026-09-25 02:33:37 |
 | [faraday](https://github.com/Ventusltd/faraday) | 2026-09-22 08:31:06 |
 | [stones](https://github.com/Ventusltd/stones) | 2026-09-20 19:48:45 |
 | [law](https://github.com/Ventusltd/law) | 2026-09-19 22:12:07 |
 | [tokens](https://github.com/Ventusltd/tokens) | 2026-09-19 18:09:37 |
-| [sld](https://github.com/Ventusltd/sld) | 2026-09-19 18:09:30 |
 | [grid](https://github.com/Ventusltd/grid) | 2026-09-19 18:09:27 |
 
 ## kuiper
 
 | repository | last pushed (UTC) |
 |---|---|
+| [kuiper-drawing-engine](https://github.com/Ventusltd/kuiper-drawing-engine) | 2026-09-25 07:49:05 |
+| [kuiper-belt](https://github.com/Ventusltd/kuiper-belt) | 2026-09-25 05:05:10 |
 | [cosmic](https://github.com/Ventusltd/cosmic) | 2026-09-25 01:25:23 |
-| [kuiper-drawing-engine](https://github.com/Ventusltd/kuiper-drawing-engine) | 2026-09-24 23:37:37 |
-| [kuiper-belt](https://github.com/Ventusltd/kuiper-belt) | 2026-09-24 21:36:16 |
 | [kuiper-ship](https://github.com/Ventusltd/kuiper-ship) | 2026-09-21 16:29:43 |
 
 ## wafer
@@ -52,13 +52,14 @@ Rebuilt by `tools/watch.py` from `ledger.tsv` and `site.tsv`. Newest change firs
 
 | repository | last pushed (UTC) |
 |---|---|
+| [particle-physics-drawing-engine](https://github.com/Ventusltd/particle-physics-drawing-engine) | 2026-09-25 07:40:55 |
+| [ventus-grid-engine](https://github.com/Ventusltd/ventus-grid-engine) | 2026-09-25 07:39:14 |
+| [stars](https://github.com/Ventusltd/stars) | 2026-09-25 06:37:09 |
+| [globalgrid2050](https://github.com/Ventusltd/globalgrid2050) | 2026-09-25 02:54:35 |
+| [globalgrid2050-homepage](https://github.com/Ventusltd/globalgrid2050-homepage) | 2026-09-25 02:53:12 |
+| [globalgrid2050-ip-and-mac-addresses](https://github.com/Ventusltd/globalgrid2050-ip-and-mac-addresses) | 2026-09-25 01:46:50 |
 | [gpu-drivers-for-global-grid](https://github.com/Ventusltd/gpu-drivers-for-global-grid) | 2026-09-25 01:25:21 |
-| [ventus-grid-engine](https://github.com/Ventusltd/ventus-grid-engine) | 2026-09-25 01:24:00 |
-| [stars](https://github.com/Ventusltd/stars) | 2026-09-25 00:48:40 |
-| [globalgrid2050-homepage](https://github.com/Ventusltd/globalgrid2050-homepage) | 2026-09-25 00:41:16 |
-| [globalgrid2050](https://github.com/Ventusltd/globalgrid2050) | 2026-09-25 00:41:16 |
 | [cvaa](https://github.com/Ventusltd/cvaa) | 2026-09-25 00:41:08 |
-| [particle-physics-drawing-engine](https://github.com/Ventusltd/particle-physics-drawing-engine) | 2026-09-25 00:40:56 |
 | [solar-bess-topology-sandbox](https://github.com/Ventusltd/solar-bess-topology-sandbox) | 2026-09-24 23:22:21 |
 | [132kV](https://github.com/Ventusltd/132kV) | 2026-09-24 10:30:39 |
 | [star-solar-star](https://github.com/Ventusltd/star-solar-star) | 2026-09-24 07:48:14 |
