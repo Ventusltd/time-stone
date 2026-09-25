@@ -24,9 +24,10 @@ Rebuilt by `tools/watch.py` from `ledger.tsv` and `site.tsv`. Newest change firs
 
 | repository | last pushed (UTC) |
 |---|---|
+| [cosmic](https://github.com/Ventusltd/cosmic) | 2026-09-25 01:25:23 |
+| [kuiper-drawing-engine](https://github.com/Ventusltd/kuiper-drawing-engine) | 2026-09-24 23:37:37 |
 | [kuiper-belt](https://github.com/Ventusltd/kuiper-belt) | 2026-09-24 21:36:16 |
 | [kuiper-ship](https://github.com/Ventusltd/kuiper-ship) | 2026-09-21 16:29:43 |
-| [cosmic](https://github.com/Ventusltd/cosmic) | 2026-09-19 18:09:40 |
 
 ## wafer
 
@@ -51,17 +52,20 @@ Rebuilt by `tools/watch.py` from `ledger.tsv` and `site.tsv`. Newest change firs
 
 | repository | last pushed (UTC) |
 |---|---|
-| [ventus-grid-engine](https://github.com/Ventusltd/ventus-grid-engine) | 2026-09-24 22:14:31 |
-| [stars](https://github.com/Ventusltd/stars) | 2026-09-24 21:48:27 |
-| [particle-physics-drawing-engine](https://github.com/Ventusltd/particle-physics-drawing-engine) | 2026-09-24 21:40:50 |
+| [gpu-drivers-for-global-grid](https://github.com/Ventusltd/gpu-drivers-for-global-grid) | 2026-09-25 01:25:21 |
+| [ventus-grid-engine](https://github.com/Ventusltd/ventus-grid-engine) | 2026-09-25 01:24:00 |
+| [stars](https://github.com/Ventusltd/stars) | 2026-09-25 00:48:40 |
+| [globalgrid2050-homepage](https://github.com/Ventusltd/globalgrid2050-homepage) | 2026-09-25 00:41:16 |
+| [globalgrid2050](https://github.com/Ventusltd/globalgrid2050) | 2026-09-25 00:41:16 |
+| [cvaa](https://github.com/Ventusltd/cvaa) | 2026-09-25 00:41:08 |
+| [particle-physics-drawing-engine](https://github.com/Ventusltd/particle-physics-drawing-engine) | 2026-09-25 00:40:56 |
+| [solar-bess-topology-sandbox](https://github.com/Ventusltd/solar-bess-topology-sandbox) | 2026-09-24 23:22:21 |
 | [132kV](https://github.com/Ventusltd/132kV) | 2026-09-24 10:30:39 |
 | [star-solar-star](https://github.com/Ventusltd/star-solar-star) | 2026-09-24 07:48:14 |
-| [globalgrid2050](https://github.com/Ventusltd/globalgrid2050) | 2026-09-22 08:06:01 |
 | [worlds-](https://github.com/Ventusltd/worlds-) | 2026-09-21 16:00:01 |
 | [trillion-loop](https://github.com/Ventusltd/trillion-loop) | 2026-09-21 14:51:06 |
 | [spiders](https://github.com/Ventusltd/spiders) | 2026-09-21 12:47:12 |
 | [grid-distance-maths](https://github.com/Ventusltd/grid-distance-maths) | 2026-09-21 00:41:09 |
-| [gpu-drivers-for-global-grid](https://github.com/Ventusltd/gpu-drivers-for-global-grid) | 2026-09-21 00:06:08 |
 | [data-gpu-holy-mother](https://github.com/Ventusltd/data-gpu-holy-mother) | 2026-09-20 23:57:44 |
 | [solar-panels](https://github.com/Ventusltd/solar-panels) | 2026-09-20 13:53:09 |
 | [solar-dc-string-wiring-and-topology](https://github.com/Ventusltd/solar-dc-string-wiring-and-topology) | 2026-09-20 10:46:16 |
@@ -75,7 +79,6 @@ Rebuilt by `tools/watch.py` from `ledger.tsv` and `site.tsv`. Newest change firs
 | [star-electron-star](https://github.com/Ventusltd/star-electron-star) | 2026-09-17 00:37:46 |
 | [elements](https://github.com/Ventusltd/elements) | 2026-09-15 19:32:08 |
 | [star-sector-star](https://github.com/Ventusltd/star-sector-star) | 2026-09-15 01:51:18 |
-| [cvaa](https://github.com/Ventusltd/cvaa) | 2026-09-14 23:58:58 |
 | [star-cable-derating-star](https://github.com/Ventusltd/star-cable-derating-star) | 2026-09-14 23:32:50 |
 | [star-seer-star](https://github.com/Ventusltd/star-seer-star) | 2026-09-14 22:14:08 |
 | [grid-dictionary](https://github.com/Ventusltd/grid-dictionary) | 2026-09-14 15:18:01 |
@@ -88,7 +91,6 @@ Rebuilt by `tools/watch.py` from `ledger.tsv` and `site.tsv`. Newest change firs
 | [chatgpt-audits](https://github.com/Ventusltd/chatgpt-audits) | 2026-09-07 10:15:35 |
 | [cable-trench-or-drill](https://github.com/Ventusltd/cable-trench-or-drill) | 2026-09-06 04:33:28 |
 | [linux-for-the-power-grid](https://github.com/Ventusltd/linux-for-the-power-grid) | 2026-09-05 18:04:02 |
-| [globalgrid2050-homepage](https://github.com/Ventusltd/globalgrid2050-homepage) | 2026-09-05 03:34:53 |
 | [ventusltd.com](https://github.com/Ventusltd/ventusltd.com) | 2026-09-05 00:37:55 |
 | [studies](https://github.com/Ventusltd/studies) | 2026-09-04 23:16:11 |
 | [seed-data](https://github.com/Ventusltd/seed-data) | 2026-09-04 23:12:19 |
