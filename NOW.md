@@ -24,9 +24,9 @@ Rebuilt by `tools/watch.py` from `ledger.tsv` and `site.tsv`. Newest change firs
 
 | repository | last pushed (UTC) |
 |---|---|
-| [kuiper-belt](https://github.com/Ventusltd/kuiper-belt) | 2026-09-26 11:32:06 |
+| [kuiper-belt](https://github.com/Ventusltd/kuiper-belt) | 2026-09-26 16:30:12 |
+| [cosmic](https://github.com/Ventusltd/cosmic) | 2026-09-26 13:32:22 |
 | [kuiper-drawing-engine](https://github.com/Ventusltd/kuiper-drawing-engine) | 2026-09-25 14:20:38 |
-| [cosmic](https://github.com/Ventusltd/cosmic) | 2026-09-25 01:25:23 |
 | [kuiper-ship](https://github.com/Ventusltd/kuiper-ship) | 2026-09-21 16:29:43 |
 
 ## wafer
@@ -46,16 +46,17 @@ Rebuilt by `tools/watch.py` from `ledger.tsv` and `site.tsv`. Newest change firs
 
 | repository | last pushed (UTC) |
 |---|---|
-| [pipelinenews](https://github.com/Ventusltd/pipelinenews) | 2026-09-26 12:09:31 |
+| [pipelinenews](https://github.com/Ventusltd/pipelinenews) | 2026-09-26 13:27:26 |
 
 ## estate
 
 | repository | last pushed (UTC) |
 |---|---|
-| [ventus-grid-engine](https://github.com/Ventusltd/ventus-grid-engine) | 2026-09-26 12:59:10 |
-| [globalgrid2050](https://github.com/Ventusltd/globalgrid2050) | 2026-09-26 12:19:25 |
-| [particle-physics-drawing-engine](https://github.com/Ventusltd/particle-physics-drawing-engine) | 2026-09-26 11:32:33 |
-| [stars](https://github.com/Ventusltd/stars) | 2026-09-26 10:15:06 |
+| [ventus-grid-engine](https://github.com/Ventusltd/ventus-grid-engine) | 2026-09-26 17:04:13 |
+| [particle-physics-drawing-engine](https://github.com/Ventusltd/particle-physics-drawing-engine) | 2026-09-26 16:30:07 |
+| [stars](https://github.com/Ventusltd/stars) | 2026-09-26 14:45:16 |
+| [cvaa](https://github.com/Ventusltd/cvaa) | 2026-09-26 13:32:24 |
+| [globalgrid2050](https://github.com/Ventusltd/globalgrid2050) | 2026-09-26 13:27:21 |
 | [star-solar-star](https://github.com/Ventusltd/star-solar-star) | 2026-09-26 07:59:25 |
 | [graphics-engines-open-source](https://github.com/Ventusltd/graphics-engines-open-source) | 2026-09-25 17:38:34 |
 | [globalgrid2050-homepage](https://github.com/Ventusltd/globalgrid2050-homepage) | 2026-09-25 15:47:01 |
@@ -63,7 +64,6 @@ Rebuilt by `tools/watch.py` from `ledger.tsv` and `site.tsv`. Newest change firs
 | [132kV](https://github.com/Ventusltd/132kV) | 2026-09-25 10:33:14 |
 | [globalgrid2050-ip-and-mac-addresses](https://github.com/Ventusltd/globalgrid2050-ip-and-mac-addresses) | 2026-09-25 01:46:50 |
 | [gpu-drivers-for-global-grid](https://github.com/Ventusltd/gpu-drivers-for-global-grid) | 2026-09-25 01:25:21 |
-| [cvaa](https://github.com/Ventusltd/cvaa) | 2026-09-25 00:41:08 |
 | [solar-bess-topology-sandbox](https://github.com/Ventusltd/solar-bess-topology-sandbox) | 2026-09-24 23:22:21 |
 | [worlds-](https://github.com/Ventusltd/worlds-) | 2026-09-21 16:00:01 |
 | [trillion-loop](https://github.com/Ventusltd/trillion-loop) | 2026-09-21 14:51:06 |
