@@ -52,9 +52,9 @@ Rebuilt by `tools/watch.py` from `ledger.tsv` and `site.tsv`. Newest change firs
 
 | repository | last pushed (UTC) |
 |---|---|
-| [ventus-grid-engine](https://github.com/Ventusltd/ventus-grid-engine) | 2026-09-30 13:35:01 |
+| [ventus-grid-engine](https://github.com/Ventusltd/ventus-grid-engine) | 2026-09-30 19:06:45 |
+| [stars](https://github.com/Ventusltd/stars) | 2026-09-30 16:08:41 |
 | [particle-physics-drawing-engine](https://github.com/Ventusltd/particle-physics-drawing-engine) | 2026-09-30 12:45:14 |
-| [stars](https://github.com/Ventusltd/stars) | 2026-09-30 09:02:07 |
 | [star-solar-star](https://github.com/Ventusltd/star-solar-star) | 2026-09-30 08:59:02 |
 | [globalgrid2050](https://github.com/Ventusltd/globalgrid2050) | 2026-09-29 07:37:26 |
 | [energy-transition-simulator](https://github.com/Ventusltd/energy-transition-simulator) | 2026-09-29 07:30:55 |
