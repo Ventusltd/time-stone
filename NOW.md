@@ -52,11 +52,12 @@ Rebuilt by `tools/watch.py` from `ledger.tsv` and `site.tsv`. Newest change firs
 
 | repository | last pushed (UTC) |
 |---|---|
+| [v11](https://github.com/Ventusltd/v11) | 2026-10-17 12:55:56 |
+| [ventus-grid-engine](https://github.com/Ventusltd/ventus-grid-engine) | 2026-10-17 11:32:45 |
+| [stars](https://github.com/Ventusltd/stars) | 2026-10-17 11:12:20 |
 | [particle-physics-drawing-engine](https://github.com/Ventusltd/particle-physics-drawing-engine) | 2026-10-17 10:54:25 |
 | [132kV](https://github.com/Ventusltd/132kV) | 2026-10-17 09:39:58 |
 | [star-solar-star](https://github.com/Ventusltd/star-solar-star) | 2026-10-17 07:10:46 |
-| [ventus-grid-engine](https://github.com/Ventusltd/ventus-grid-engine) | 2026-10-17 06:51:30 |
-| [stars](https://github.com/Ventusltd/stars) | 2026-10-17 06:10:35 |
 | [globalgrid2050](https://github.com/Ventusltd/globalgrid2050) | 2026-10-13 17:50:27 |
 | [spiders](https://github.com/Ventusltd/spiders) | 2026-10-12 15:23:06 |
 | [maths](https://github.com/Ventusltd/maths) | 2026-10-05 14:02:28 |
@@ -117,7 +118,6 @@ Rebuilt by `tools/watch.py` from `ledger.tsv` and `site.tsv`. Newest change firs
 | [gb-electricity-ui](https://github.com/Ventusltd/gb-electricity-ui) | 2026-08-31 22:53:08 |
 | [architecture](https://github.com/Ventusltd/architecture) | 2026-08-29 08:38:53 |
 | [uk-dno-data](https://github.com/Ventusltd/uk-dno-data) | 2026-08-09 07:47:21 |
-| [v11](https://github.com/Ventusltd/v11) | 2026-08-05 23:09:30 |
 | [solar-electrical-topology-analysis-engine-text-based](https://github.com/Ventusltd/solar-electrical-topology-analysis-engine-text-based) | 2026-08-02 14:46:35 |
 | [youengineer-code-review](https://github.com/Ventusltd/youengineer-code-review) | 2026-07-11 01:17:23 |
 | [Mahabharata](https://github.com/Ventusltd/Mahabharata) | 2026-07-07 21:38:04 |
