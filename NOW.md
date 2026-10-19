@@ -52,12 +52,12 @@ Rebuilt by `tools/watch.py` from `ledger.tsv` and `site.tsv`. Newest change firs
 
 | repository | last pushed (UTC) |
 |---|---|
+| [star-solar-star](https://github.com/Ventusltd/star-solar-star) | 2026-10-19 08:04:09 |
+| [v11](https://github.com/Ventusltd/v11) | 2026-10-19 07:11:28 |
+| [ventus-grid-engine](https://github.com/Ventusltd/ventus-grid-engine) | 2026-10-19 06:01:19 |
+| [stars](https://github.com/Ventusltd/stars) | 2026-10-19 05:19:38 |
 | [particle-physics-drawing-engine](https://github.com/Ventusltd/particle-physics-drawing-engine) | 2026-10-19 04:51:43 |
-| [ventus-grid-engine](https://github.com/Ventusltd/ventus-grid-engine) | 2026-10-19 01:04:39 |
-| [stars](https://github.com/Ventusltd/stars) | 2026-10-19 00:29:57 |
-| [v11](https://github.com/Ventusltd/v11) | 2026-10-18 23:10:21 |
 | [132kV](https://github.com/Ventusltd/132kV) | 2026-10-18 09:53:17 |
-| [star-solar-star](https://github.com/Ventusltd/star-solar-star) | 2026-10-18 07:24:31 |
 | [globalgrid2050](https://github.com/Ventusltd/globalgrid2050) | 2026-10-13 17:50:27 |
 | [spiders](https://github.com/Ventusltd/spiders) | 2026-10-12 15:23:06 |
 | [maths](https://github.com/Ventusltd/maths) | 2026-10-05 14:02:28 |
