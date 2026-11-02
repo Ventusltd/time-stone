@@ -24,7 +24,7 @@ Rebuilt by `tools/watch.py` from `ledger.tsv` and `site.tsv`. Newest change firs
 
 | repository | last pushed (UTC) |
 |---|---|
-| [kuiper-belt](https://github.com/Ventusltd/kuiper-belt) | 2026-11-02 06:20:52 |
+| [kuiper-belt](https://github.com/Ventusltd/kuiper-belt) | 2026-11-02 12:18:56 |
 | [cosmic](https://github.com/Ventusltd/cosmic) | 2026-10-05 14:02:23 |
 | [kuiper-drawing-engine](https://github.com/Ventusltd/kuiper-drawing-engine) | 2026-09-27 13:52:03 |
 | [kuiper-ship](https://github.com/Ventusltd/kuiper-ship) | 2026-09-21 16:29:43 |
@@ -52,23 +52,23 @@ Rebuilt by `tools/watch.py` from `ledger.tsv` and `site.tsv`. Newest change firs
 
 | repository | last pushed (UTC) |
 |---|---|
+| [spiders](https://github.com/Ventusltd/spiders) | 2026-11-02 15:49:37 |
+| [neural-link-between-agents](https://github.com/Ventusltd/neural-link-between-agents) | 2026-11-02 12:21:46 |
+| [cvaa](https://github.com/Ventusltd/cvaa) | 2026-11-02 10:52:21 |
+| [star-solar-star](https://github.com/Ventusltd/star-solar-star) | 2026-11-02 09:55:13 |
+| [stars](https://github.com/Ventusltd/stars) | 2026-11-02 08:17:15 |
+| [ventus-grid-engine](https://github.com/Ventusltd/ventus-grid-engine) | 2026-11-02 07:35:30 |
 | [particle-physics-drawing-engine](https://github.com/Ventusltd/particle-physics-drawing-engine) | 2026-11-02 06:22:02 |
-| [neural-link-between-agents](https://github.com/Ventusltd/neural-link-between-agents) | 2026-11-02 06:18:25 |
 | [globalgrid2050](https://github.com/Ventusltd/globalgrid2050) | 2026-11-02 02:31:11 |
 | [globalgrid2050-homepage](https://github.com/Ventusltd/globalgrid2050-homepage) | 2026-11-02 02:28:01 |
-| [stars](https://github.com/Ventusltd/stars) | 2026-11-02 01:04:23 |
-| [ventus-grid-engine](https://github.com/Ventusltd/ventus-grid-engine) | 2026-11-02 00:33:51 |
 | [lightning](https://github.com/Ventusltd/lightning) | 2026-11-01 16:10:17 |
 | [grid-dictionary](https://github.com/Ventusltd/grid-dictionary) | 2026-11-01 11:55:41 |
-| [star-solar-star](https://github.com/Ventusltd/star-solar-star) | 2026-11-01 09:41:00 |
 | [floating-solar-pv](https://github.com/Ventusltd/floating-solar-pv) | 2026-10-31 21:57:39 |
 | [data-grid-gb](https://github.com/Ventusltd/data-grid-gb) | 2026-10-31 21:33:28 |
 | [132kV](https://github.com/Ventusltd/132kV) | 2026-10-30 11:37:15 |
 | [testcode](https://github.com/Ventusltd/testcode) | 2026-10-28 18:35:25 |
-| [spiders](https://github.com/Ventusltd/spiders) | 2026-10-26 13:00:50 |
 | [v11](https://github.com/Ventusltd/v11) | 2026-10-19 14:54:25 |
 | [maths](https://github.com/Ventusltd/maths) | 2026-10-05 14:02:28 |
-| [cvaa](https://github.com/Ventusltd/cvaa) | 2026-10-05 14:02:21 |
 | [energy-transition-simulator](https://github.com/Ventusltd/energy-transition-simulator) | 2026-09-29 07:30:55 |
 | [wire-frame-scanner](https://github.com/Ventusltd/wire-frame-scanner) | 2026-09-28 20:10:49 |
 | [star-quantum-twin](https://github.com/Ventusltd/star-quantum-twin) | 2026-09-27 22:10:24 |
