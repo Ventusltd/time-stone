@@ -52,13 +52,13 @@ Rebuilt by `tools/watch.py` from `ledger.tsv` and `site.tsv`. Newest change firs
 
 | repository | last pushed (UTC) |
 |---|---|
-| [particle-physics-drawing-engine](https://github.com/Ventusltd/particle-physics-drawing-engine) | 2026-11-03 02:57:14 |
-| [stars](https://github.com/Ventusltd/stars) | 2026-11-03 01:49:45 |
-| [ventus-grid-engine](https://github.com/Ventusltd/ventus-grid-engine) | 2026-11-03 01:31:29 |
+| [particle-physics-drawing-engine](https://github.com/Ventusltd/particle-physics-drawing-engine) | 2026-11-03 11:00:35 |
+| [stars](https://github.com/Ventusltd/stars) | 2026-11-03 10:03:20 |
+| [star-solar-star](https://github.com/Ventusltd/star-solar-star) | 2026-11-03 09:59:53 |
+| [ventus-grid-engine](https://github.com/Ventusltd/ventus-grid-engine) | 2026-11-03 09:26:01 |
 | [spiders](https://github.com/Ventusltd/spiders) | 2026-11-02 15:49:37 |
 | [neural-link-between-agents](https://github.com/Ventusltd/neural-link-between-agents) | 2026-11-02 12:21:46 |
 | [cvaa](https://github.com/Ventusltd/cvaa) | 2026-11-02 10:52:21 |
-| [star-solar-star](https://github.com/Ventusltd/star-solar-star) | 2026-11-02 09:55:13 |
 | [globalgrid2050](https://github.com/Ventusltd/globalgrid2050) | 2026-11-02 02:31:11 |
 | [globalgrid2050-homepage](https://github.com/Ventusltd/globalgrid2050-homepage) | 2026-11-02 02:28:01 |
 | [lightning](https://github.com/Ventusltd/lightning) | 2026-11-01 16:10:17 |
