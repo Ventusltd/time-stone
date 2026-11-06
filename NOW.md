@@ -52,10 +52,10 @@ Rebuilt by `tools/watch.py` from `ledger.tsv` and `site.tsv`. Newest change firs
 
 | repository | last pushed (UTC) |
 |---|---|
+| [stars](https://github.com/Ventusltd/stars) | 2026-11-06 16:02:52 |
+| [ventus-grid-engine](https://github.com/Ventusltd/ventus-grid-engine) | 2026-11-06 14:56:52 |
 | [particle-physics-drawing-engine](https://github.com/Ventusltd/particle-physics-drawing-engine) | 2026-11-06 11:05:20 |
 | [star-solar-star](https://github.com/Ventusltd/star-solar-star) | 2026-11-06 09:49:03 |
-| [stars](https://github.com/Ventusltd/stars) | 2026-11-06 08:02:40 |
-| [ventus-grid-engine](https://github.com/Ventusltd/ventus-grid-engine) | 2026-11-06 06:24:34 |
 | [spiders](https://github.com/Ventusltd/spiders) | 2026-11-02 15:49:37 |
 | [neural-link-between-agents](https://github.com/Ventusltd/neural-link-between-agents) | 2026-11-02 12:21:46 |
 | [cvaa](https://github.com/Ventusltd/cvaa) | 2026-11-02 10:52:21 |
