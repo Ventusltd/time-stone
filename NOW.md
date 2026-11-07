@@ -24,7 +24,7 @@ Rebuilt by `tools/watch.py` from `ledger.tsv` and `site.tsv`. Newest change firs
 
 | repository | last pushed (UTC) |
 |---|---|
-| [kuiper-belt](https://github.com/Ventusltd/kuiper-belt) | 2026-11-07 06:09:06 |
+| [kuiper-belt](https://github.com/Ventusltd/kuiper-belt) | 2026-11-07 13:14:01 |
 | [cosmic](https://github.com/Ventusltd/cosmic) | 2026-10-05 14:02:23 |
 | [kuiper-drawing-engine](https://github.com/Ventusltd/kuiper-drawing-engine) | 2026-09-27 13:52:03 |
 | [kuiper-ship](https://github.com/Ventusltd/kuiper-ship) | 2026-09-21 16:29:43 |
@@ -52,10 +52,10 @@ Rebuilt by `tools/watch.py` from `ledger.tsv` and `site.tsv`. Newest change firs
 
 | repository | last pushed (UTC) |
 |---|---|
+| [stars](https://github.com/Ventusltd/stars) | 2026-11-07 16:40:51 |
+| [ventus-grid-engine](https://github.com/Ventusltd/ventus-grid-engine) | 2026-11-07 13:54:05 |
 | [particle-physics-drawing-engine](https://github.com/Ventusltd/particle-physics-drawing-engine) | 2026-11-07 10:24:48 |
 | [star-solar-star](https://github.com/Ventusltd/star-solar-star) | 2026-11-07 09:12:13 |
-| [stars](https://github.com/Ventusltd/stars) | 2026-11-07 08:58:39 |
-| [ventus-grid-engine](https://github.com/Ventusltd/ventus-grid-engine) | 2026-11-07 07:00:34 |
 | [spiders](https://github.com/Ventusltd/spiders) | 2026-11-02 15:49:37 |
 | [neural-link-between-agents](https://github.com/Ventusltd/neural-link-between-agents) | 2026-11-02 12:21:46 |
 | [cvaa](https://github.com/Ventusltd/cvaa) | 2026-11-02 10:52:21 |
