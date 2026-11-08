@@ -24,7 +24,7 @@ Rebuilt by `tools/watch.py` from `ledger.tsv` and `site.tsv`. Newest change firs
 
 | repository | last pushed (UTC) |
 |---|---|
-| [kuiper-belt](https://github.com/Ventusltd/kuiper-belt) | 2026-11-07 13:14:01 |
+| [kuiper-belt](https://github.com/Ventusltd/kuiper-belt) | 2026-11-07 21:58:52 |
 | [cosmic](https://github.com/Ventusltd/cosmic) | 2026-10-05 14:02:23 |
 | [kuiper-drawing-engine](https://github.com/Ventusltd/kuiper-drawing-engine) | 2026-09-27 13:52:03 |
 | [kuiper-ship](https://github.com/Ventusltd/kuiper-ship) | 2026-09-21 16:29:43 |
@@ -52,21 +52,22 @@ Rebuilt by `tools/watch.py` from `ledger.tsv` and `site.tsv`. Newest change firs
 
 | repository | last pushed (UTC) |
 |---|---|
-| [stars](https://github.com/Ventusltd/stars) | 2026-11-07 20:32:03 |
-| [ventus-grid-engine](https://github.com/Ventusltd/ventus-grid-engine) | 2026-11-07 18:39:58 |
-| [particle-physics-drawing-engine](https://github.com/Ventusltd/particle-physics-drawing-engine) | 2026-11-07 17:46:42 |
+| [stars](https://github.com/Ventusltd/stars) | 2026-11-07 23:58:29 |
+| [ventus-grid-engine](https://github.com/Ventusltd/ventus-grid-engine) | 2026-11-07 22:39:16 |
+| [globalgrid2050](https://github.com/Ventusltd/globalgrid2050) | 2026-11-07 22:03:54 |
+| [data-centres-gb](https://github.com/Ventusltd/data-centres-gb) | 2026-11-07 22:03:41 |
+| [testcode](https://github.com/Ventusltd/testcode) | 2026-11-07 22:03:38 |
+| [particle-physics-drawing-engine](https://github.com/Ventusltd/particle-physics-drawing-engine) | 2026-11-07 21:58:14 |
 | [star-solar-star](https://github.com/Ventusltd/star-solar-star) | 2026-11-07 09:12:13 |
 | [spiders](https://github.com/Ventusltd/spiders) | 2026-11-02 15:49:37 |
 | [neural-link-between-agents](https://github.com/Ventusltd/neural-link-between-agents) | 2026-11-02 12:21:46 |
 | [cvaa](https://github.com/Ventusltd/cvaa) | 2026-11-02 10:52:21 |
-| [globalgrid2050](https://github.com/Ventusltd/globalgrid2050) | 2026-11-02 02:31:11 |
 | [globalgrid2050-homepage](https://github.com/Ventusltd/globalgrid2050-homepage) | 2026-11-02 02:28:01 |
 | [lightning](https://github.com/Ventusltd/lightning) | 2026-11-01 16:10:17 |
 | [grid-dictionary](https://github.com/Ventusltd/grid-dictionary) | 2026-11-01 11:55:41 |
 | [floating-solar-pv](https://github.com/Ventusltd/floating-solar-pv) | 2026-10-31 21:57:39 |
 | [data-grid-gb](https://github.com/Ventusltd/data-grid-gb) | 2026-10-31 21:33:28 |
 | [132kV](https://github.com/Ventusltd/132kV) | 2026-10-30 11:37:15 |
-| [testcode](https://github.com/Ventusltd/testcode) | 2026-10-28 18:35:25 |
 | [v11](https://github.com/Ventusltd/v11) | 2026-10-19 14:54:25 |
 | [maths](https://github.com/Ventusltd/maths) | 2026-10-05 14:02:28 |
 | [energy-transition-simulator](https://github.com/Ventusltd/energy-transition-simulator) | 2026-09-29 07:30:55 |
@@ -116,7 +117,6 @@ Rebuilt by `tools/watch.py` from `ledger.tsv` and `site.tsv`. Newest change firs
 | [data-gb-electricity](https://github.com/Ventusltd/data-gb-electricity) | 2026-09-02 11:31:06 |
 | [data-interconnectors](https://github.com/Ventusltd/data-interconnectors) | 2026-08-31 23:25:50 |
 | [data-federation-map-for-globalgrid2050-all-repos](https://github.com/Ventusltd/data-federation-map-for-globalgrid2050-all-repos) | 2026-08-31 23:25:46 |
-| [data-centres-gb](https://github.com/Ventusltd/data-centres-gb) | 2026-08-31 23:25:44 |
 | [companies](https://github.com/Ventusltd/companies) | 2026-08-31 22:53:12 |
 | [gb-electricity-ui](https://github.com/Ventusltd/gb-electricity-ui) | 2026-08-31 22:53:08 |
 | [architecture](https://github.com/Ventusltd/architecture) | 2026-08-29 08:38:53 |
