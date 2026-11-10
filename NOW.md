@@ -52,11 +52,11 @@ Rebuilt by `tools/watch.py` from `ledger.tsv` and `site.tsv`. Newest change firs
 
 | repository | last pushed (UTC) |
 |---|---|
-| [ventus-grid-engine](https://github.com/Ventusltd/ventus-grid-engine) | 2026-11-10 09:38:49 |
-| [particle-physics-drawing-engine](https://github.com/Ventusltd/particle-physics-drawing-engine) | 2026-11-10 07:27:59 |
-| [stars](https://github.com/Ventusltd/stars) | 2026-11-10 04:41:44 |
+| [ventus-grid-engine](https://github.com/Ventusltd/ventus-grid-engine) | 2026-11-10 17:40:13 |
+| [particle-physics-drawing-engine](https://github.com/Ventusltd/particle-physics-drawing-engine) | 2026-11-10 17:07:52 |
+| [stars](https://github.com/Ventusltd/stars) | 2026-11-10 13:38:36 |
+| [star-solar-star](https://github.com/Ventusltd/star-solar-star) | 2026-11-10 10:19:44 |
 | [spiders](https://github.com/Ventusltd/spiders) | 2026-11-09 16:16:34 |
-| [star-solar-star](https://github.com/Ventusltd/star-solar-star) | 2026-11-09 10:16:05 |
 | [globalgrid2050](https://github.com/Ventusltd/globalgrid2050) | 2026-11-07 22:03:54 |
 | [data-centres-gb](https://github.com/Ventusltd/data-centres-gb) | 2026-11-07 22:03:41 |
 | [testcode](https://github.com/Ventusltd/testcode) | 2026-11-07 22:03:38 |
