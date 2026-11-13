@@ -24,7 +24,7 @@ Rebuilt by `tools/watch.py` from `ledger.tsv` and `site.tsv`. Newest change firs
 
 | repository | last pushed (UTC) |
 |---|---|
-| [kuiper-belt](https://github.com/Ventusltd/kuiper-belt) | 2026-11-12 20:02:31 |
+| [kuiper-belt](https://github.com/Ventusltd/kuiper-belt) | 2026-11-13 06:54:47 |
 | [cosmic](https://github.com/Ventusltd/cosmic) | 2026-10-05 14:02:23 |
 | [kuiper-drawing-engine](https://github.com/Ventusltd/kuiper-drawing-engine) | 2026-09-27 13:52:03 |
 | [kuiper-ship](https://github.com/Ventusltd/kuiper-ship) | 2026-09-21 16:29:43 |
@@ -52,9 +52,10 @@ Rebuilt by `tools/watch.py` from `ledger.tsv` and `site.tsv`. Newest change firs
 
 | repository | last pushed (UTC) |
 |---|---|
+| [cyber-resilience](https://github.com/Ventusltd/cyber-resilience) | 2026-11-13 09:42:44 |
+| [ventus-grid-engine](https://github.com/Ventusltd/ventus-grid-engine) | 2026-11-13 06:31:53 |
+| [stars](https://github.com/Ventusltd/stars) | 2026-11-13 03:28:08 |
 | [particle-physics-drawing-engine](https://github.com/Ventusltd/particle-physics-drawing-engine) | 2026-11-13 01:55:28 |
-| [ventus-grid-engine](https://github.com/Ventusltd/ventus-grid-engine) | 2026-11-13 00:08:22 |
-| [stars](https://github.com/Ventusltd/stars) | 2026-11-12 22:47:23 |
 | [132kV](https://github.com/Ventusltd/132kV) | 2026-11-12 13:58:36 |
 | [star-solar-star](https://github.com/Ventusltd/star-solar-star) | 2026-11-12 10:14:08 |
 | [spiders](https://github.com/Ventusltd/spiders) | 2026-11-09 16:16:34 |
