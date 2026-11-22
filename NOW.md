@@ -46,17 +46,17 @@ Rebuilt by `tools/watch.py` from `ledger.tsv` and `site.tsv`. Newest change firs
 
 | repository | last pushed (UTC) |
 |---|---|
-| [pipelinenews](https://github.com/Ventusltd/pipelinenews) | 2026-11-22 02:13:05 |
+| [pipelinenews](https://github.com/Ventusltd/pipelinenews) | 2026-11-22 09:45:00 |
 
 ## estate
 
 | repository | last pushed (UTC) |
 |---|---|
-| [stars](https://github.com/Ventusltd/stars) | 2026-11-22 07:29:22 |
-| [globalgrid2050](https://github.com/Ventusltd/globalgrid2050) | 2026-11-22 01:26:31 |
-| [particle-physics-drawing-engine](https://github.com/Ventusltd/particle-physics-drawing-engine) | 2026-11-22 01:24:57 |
-| [spiders](https://github.com/Ventusltd/spiders) | 2026-11-22 01:12:33 |
-| [globalgrid2050-homepage](https://github.com/Ventusltd/globalgrid2050-homepage) | 2026-11-22 00:30:36 |
+| [globalgrid2050](https://github.com/Ventusltd/globalgrid2050) | 2026-11-22 16:25:09 |
+| [stars](https://github.com/Ventusltd/stars) | 2026-11-22 15:42:17 |
+| [globalgrid2050-homepage](https://github.com/Ventusltd/globalgrid2050-homepage) | 2026-11-22 14:57:58 |
+| [particle-physics-drawing-engine](https://github.com/Ventusltd/particle-physics-drawing-engine) | 2026-11-22 11:38:24 |
+| [spiders](https://github.com/Ventusltd/spiders) | 2026-11-22 11:10:57 |
 | [ventus-grid-engine](https://github.com/Ventusltd/ventus-grid-engine) | 2026-11-21 17:21:04 |
 | [neural-link-between-agents](https://github.com/Ventusltd/neural-link-between-agents) | 2026-11-20 18:03:26 |
 | [132kV](https://github.com/Ventusltd/132kV) | 2026-11-20 14:21:03 |
