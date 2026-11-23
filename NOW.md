@@ -39,24 +39,24 @@ Rebuilt by `tools/watch.py` from `ledger.tsv` and `site.tsv`. Newest change firs
 
 | repository | last pushed (UTC) |
 |---|---|
-| [gridatlas](https://github.com/Ventusltd/gridatlas) | 2026-11-22 22:01:41 |
+| [gridatlas](https://github.com/Ventusltd/gridatlas) | 2026-11-22 23:51:55 |
 | [data-gridatlas](https://github.com/Ventusltd/data-gridatlas) | 2026-09-03 02:43:38 |
 
 ## pipelinenews
 
 | repository | last pushed (UTC) |
 |---|---|
-| [pipelinenews](https://github.com/Ventusltd/pipelinenews) | 2026-11-22 17:49:43 |
+| [pipelinenews](https://github.com/Ventusltd/pipelinenews) | 2026-11-22 23:36:04 |
 
 ## estate
 
 | repository | last pushed (UTC) |
 |---|---|
-| [globalgrid2050](https://github.com/Ventusltd/globalgrid2050) | 2026-11-22 22:32:49 |
-| [stars](https://github.com/Ventusltd/stars) | 2026-11-22 21:18:05 |
-| [particle-physics-drawing-engine](https://github.com/Ventusltd/particle-physics-drawing-engine) | 2026-11-22 19:48:51 |
-| [spiders](https://github.com/Ventusltd/spiders) | 2026-11-22 19:30:20 |
-| [globalgrid2050-homepage](https://github.com/Ventusltd/globalgrid2050-homepage) | 2026-11-22 19:14:52 |
+| [stars](https://github.com/Ventusltd/stars) | 2026-11-23 02:01:18 |
+| [particle-physics-drawing-engine](https://github.com/Ventusltd/particle-physics-drawing-engine) | 2026-11-23 01:49:05 |
+| [spiders](https://github.com/Ventusltd/spiders) | 2026-11-23 01:36:43 |
+| [globalgrid2050](https://github.com/Ventusltd/globalgrid2050) | 2026-11-22 23:52:16 |
+| [globalgrid2050-homepage](https://github.com/Ventusltd/globalgrid2050-homepage) | 2026-11-22 23:49:32 |
 | [ventus-grid-engine](https://github.com/Ventusltd/ventus-grid-engine) | 2026-11-21 17:21:04 |
 | [neural-link-between-agents](https://github.com/Ventusltd/neural-link-between-agents) | 2026-11-20 18:03:26 |
 | [132kV](https://github.com/Ventusltd/132kV) | 2026-11-20 14:21:03 |
