@@ -24,7 +24,7 @@ Rebuilt by `tools/watch.py` from `ledger.tsv` and `site.tsv`. Newest change firs
 
 | repository | last pushed (UTC) |
 |---|---|
-| [kuiper-belt](https://github.com/Ventusltd/kuiper-belt) | 2026-11-24 00:02:05 |
+| [kuiper-belt](https://github.com/Ventusltd/kuiper-belt) | 2026-11-24 10:02:52 |
 | [cosmic](https://github.com/Ventusltd/cosmic) | 2026-10-05 14:02:23 |
 | [kuiper-drawing-engine](https://github.com/Ventusltd/kuiper-drawing-engine) | 2026-09-27 13:52:03 |
 | [kuiper-ship](https://github.com/Ventusltd/kuiper-ship) | 2026-09-21 16:29:43 |
@@ -46,18 +46,19 @@ Rebuilt by `tools/watch.py` from `ledger.tsv` and `site.tsv`. Newest change firs
 
 | repository | last pushed (UTC) |
 |---|---|
-| [pipelinenews](https://github.com/Ventusltd/pipelinenews) | 2026-11-23 20:11:58 |
+| [pipelinenews](https://github.com/Ventusltd/pipelinenews) | 2026-11-24 04:47:21 |
 
 ## estate
 
 | repository | last pushed (UTC) |
 |---|---|
+| [satnav](https://github.com/Ventusltd/satnav) | 2026-11-24 12:44:32 |
+| [neural-link-between-agents](https://github.com/Ventusltd/neural-link-between-agents) | 2026-11-24 12:40:31 |
+| [globalgrid2050](https://github.com/Ventusltd/globalgrid2050) | 2026-11-24 12:36:41 |
+| [globalgrid2050-homepage](https://github.com/Ventusltd/globalgrid2050-homepage) | 2026-11-24 12:36:20 |
+| [stars](https://github.com/Ventusltd/stars) | 2026-11-24 07:08:22 |
 | [particle-physics-drawing-engine](https://github.com/Ventusltd/particle-physics-drawing-engine) | 2026-11-24 02:18:45 |
 | [spiders](https://github.com/Ventusltd/spiders) | 2026-11-24 02:09:26 |
-| [stars](https://github.com/Ventusltd/stars) | 2026-11-23 22:57:34 |
-| [globalgrid2050](https://github.com/Ventusltd/globalgrid2050) | 2026-11-23 22:53:44 |
-| [globalgrid2050-homepage](https://github.com/Ventusltd/globalgrid2050-homepage) | 2026-11-23 22:50:09 |
-| [neural-link-between-agents](https://github.com/Ventusltd/neural-link-between-agents) | 2026-11-23 12:34:10 |
 | [ventus-grid-engine](https://github.com/Ventusltd/ventus-grid-engine) | 2026-11-21 17:21:04 |
 | [132kV](https://github.com/Ventusltd/132kV) | 2026-11-20 14:21:03 |
 | [testcode](https://github.com/Ventusltd/testcode) | 2026-11-19 14:35:16 |
