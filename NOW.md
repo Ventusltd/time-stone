@@ -24,7 +24,7 @@ Rebuilt by `tools/watch.py` from `ledger.tsv` and `site.tsv`. Newest change firs
 
 | repository | last pushed (UTC) |
 |---|---|
-| [kuiper-belt](https://github.com/Ventusltd/kuiper-belt) | 2026-11-26 08:31:54 |
+| [kuiper-belt](https://github.com/Ventusltd/kuiper-belt) | 2026-11-26 18:18:34 |
 | [cosmic](https://github.com/Ventusltd/cosmic) | 2026-10-05 14:02:23 |
 | [kuiper-drawing-engine](https://github.com/Ventusltd/kuiper-drawing-engine) | 2026-09-27 13:52:03 |
 | [kuiper-ship](https://github.com/Ventusltd/kuiper-ship) | 2026-09-21 16:29:43 |
@@ -52,21 +52,21 @@ Rebuilt by `tools/watch.py` from `ledger.tsv` and `site.tsv`. Newest change firs
 
 | repository | last pushed (UTC) |
 |---|---|
-| [vedic-](https://github.com/Ventusltd/vedic-) | 2026-11-26 10:57:33 |
-| [globalgrid2050](https://github.com/Ventusltd/globalgrid2050) | 2026-11-26 10:20:32 |
-| [globalgrid2050-homepage](https://github.com/Ventusltd/globalgrid2050-homepage) | 2026-11-26 10:10:15 |
-| [stars](https://github.com/Ventusltd/stars) | 2026-11-26 05:28:22 |
-| [particle-physics-drawing-engine](https://github.com/Ventusltd/particle-physics-drawing-engine) | 2026-11-26 03:38:26 |
-| [spiders](https://github.com/Ventusltd/spiders) | 2026-11-26 03:31:06 |
+| [globalgrid2050](https://github.com/Ventusltd/globalgrid2050) | 2026-11-26 20:13:42 |
+| [globalgrid2050-homepage](https://github.com/Ventusltd/globalgrid2050-homepage) | 2026-11-26 20:12:17 |
+| [vedic-](https://github.com/Ventusltd/vedic-) | 2026-11-26 20:08:02 |
+| [neural-link-between-agents](https://github.com/Ventusltd/neural-link-between-agents) | 2026-11-26 19:56:17 |
+| [particle-physics-drawing-engine](https://github.com/Ventusltd/particle-physics-drawing-engine) | 2026-11-26 17:03:00 |
+| [spiders](https://github.com/Ventusltd/spiders) | 2026-11-26 16:47:09 |
+| [stars](https://github.com/Ventusltd/stars) | 2026-11-26 15:47:27 |
+| [cvaa](https://github.com/Ventusltd/cvaa) | 2026-11-26 13:41:59 |
 | [testcode](https://github.com/Ventusltd/testcode) | 2026-11-26 02:45:49 |
 | [satnav](https://github.com/Ventusltd/satnav) | 2026-11-24 23:20:09 |
-| [neural-link-between-agents](https://github.com/Ventusltd/neural-link-between-agents) | 2026-11-24 23:20:08 |
 | [ventus-grid-engine](https://github.com/Ventusltd/ventus-grid-engine) | 2026-11-21 17:21:04 |
 | [132kV](https://github.com/Ventusltd/132kV) | 2026-11-20 14:21:03 |
 | [star-solar-star](https://github.com/Ventusltd/star-solar-star) | 2026-11-18 10:39:58 |
 | [data-grid-gb](https://github.com/Ventusltd/data-grid-gb) | 2026-11-17 18:09:00 |
 | [data-gb-electricity](https://github.com/Ventusltd/data-gb-electricity) | 2026-11-17 02:05:53 |
-| [cvaa](https://github.com/Ventusltd/cvaa) | 2026-11-16 00:21:57 |
 | [cyber-resilience](https://github.com/Ventusltd/cyber-resilience) | 2026-11-14 03:33:35 |
 | [data-centres-gb](https://github.com/Ventusltd/data-centres-gb) | 2026-11-07 22:03:41 |
 | [lightning](https://github.com/Ventusltd/lightning) | 2026-11-01 16:10:17 |
