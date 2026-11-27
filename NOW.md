@@ -24,8 +24,8 @@ Rebuilt by `tools/watch.py` from `ledger.tsv` and `site.tsv`. Newest change firs
 
 | repository | last pushed (UTC) |
 |---|---|
-| [kuiper-belt](https://github.com/Ventusltd/kuiper-belt) | 2026-11-27 08:46:43 |
-| [cosmic](https://github.com/Ventusltd/cosmic) | 2026-10-05 14:02:23 |
+| [cosmic](https://github.com/Ventusltd/cosmic) | 2026-11-27 21:38:09 |
+| [kuiper-belt](https://github.com/Ventusltd/kuiper-belt) | 2026-11-27 21:26:55 |
 | [kuiper-drawing-engine](https://github.com/Ventusltd/kuiper-drawing-engine) | 2026-09-27 13:52:03 |
 | [kuiper-ship](https://github.com/Ventusltd/kuiper-ship) | 2026-09-21 16:29:43 |
 
@@ -39,31 +39,32 @@ Rebuilt by `tools/watch.py` from `ledger.tsv` and `site.tsv`. Newest change firs
 
 | repository | last pushed (UTC) |
 |---|---|
-| [gridatlas](https://github.com/Ventusltd/gridatlas) | 2026-11-24 22:56:28 |
+| [gridatlas](https://github.com/Ventusltd/gridatlas) | 2026-11-27 21:28:00 |
 | [data-gridatlas](https://github.com/Ventusltd/data-gridatlas) | 2026-09-03 02:43:38 |
 
 ## pipelinenews
 
 | repository | last pushed (UTC) |
 |---|---|
-| [pipelinenews](https://github.com/Ventusltd/pipelinenews) | 2026-11-27 04:14:34 |
+| [pipelinenews](https://github.com/Ventusltd/pipelinenews) | 2026-11-27 13:52:47 |
 
 ## estate
 
 | repository | last pushed (UTC) |
 |---|---|
-| [vedic-](https://github.com/Ventusltd/vedic-) | 2026-11-27 12:47:04 |
+| [spiders](https://github.com/Ventusltd/spiders) | 2026-11-27 21:38:10 |
+| [cvaa](https://github.com/Ventusltd/cvaa) | 2026-11-27 21:38:07 |
+| [neural-link-between-agents](https://github.com/Ventusltd/neural-link-between-agents) | 2026-11-27 21:38:05 |
+| [seed-data](https://github.com/Ventusltd/seed-data) | 2026-11-27 21:38:04 |
+| [stars](https://github.com/Ventusltd/stars) | 2026-11-27 19:41:54 |
+| [globalgrid2050](https://github.com/Ventusltd/globalgrid2050) | 2026-11-27 15:42:42 |
+| [132kV](https://github.com/Ventusltd/132kV) | 2026-11-27 15:35:01 |
+| [vedic-](https://github.com/Ventusltd/vedic-) | 2026-11-27 13:05:28 |
 | [particle-physics-drawing-engine](https://github.com/Ventusltd/particle-physics-drawing-engine) | 2026-11-27 12:42:09 |
-| [neural-link-between-agents](https://github.com/Ventusltd/neural-link-between-agents) | 2026-11-27 12:41:24 |
-| [spiders](https://github.com/Ventusltd/spiders) | 2026-11-27 12:04:37 |
-| [cvaa](https://github.com/Ventusltd/cvaa) | 2026-11-27 11:30:39 |
-| [stars](https://github.com/Ventusltd/stars) | 2026-11-27 10:10:03 |
-| [globalgrid2050](https://github.com/Ventusltd/globalgrid2050) | 2026-11-27 01:30:51 |
 | [globalgrid2050-homepage](https://github.com/Ventusltd/globalgrid2050-homepage) | 2026-11-26 20:12:17 |
 | [testcode](https://github.com/Ventusltd/testcode) | 2026-11-26 02:45:49 |
 | [satnav](https://github.com/Ventusltd/satnav) | 2026-11-24 23:20:09 |
 | [ventus-grid-engine](https://github.com/Ventusltd/ventus-grid-engine) | 2026-11-21 17:21:04 |
-| [132kV](https://github.com/Ventusltd/132kV) | 2026-11-20 14:21:03 |
 | [star-solar-star](https://github.com/Ventusltd/star-solar-star) | 2026-11-18 10:39:58 |
 | [data-grid-gb](https://github.com/Ventusltd/data-grid-gb) | 2026-11-17 18:09:00 |
 | [data-gb-electricity](https://github.com/Ventusltd/data-gb-electricity) | 2026-11-17 02:05:53 |
@@ -114,7 +115,6 @@ Rebuilt by `tools/watch.py` from `ledger.tsv` and `site.tsv`. Newest change firs
 | [linux-for-the-power-grid](https://github.com/Ventusltd/linux-for-the-power-grid) | 2026-09-05 18:04:02 |
 | [ventusltd.com](https://github.com/Ventusltd/ventusltd.com) | 2026-09-05 00:37:55 |
 | [studies](https://github.com/Ventusltd/studies) | 2026-09-04 23:16:11 |
-| [seed-data](https://github.com/Ventusltd/seed-data) | 2026-09-04 23:12:19 |
 | [globalgrid2050-hompage](https://github.com/Ventusltd/globalgrid2050-hompage) | 2026-09-04 22:33:38 |
 | [gemini](https://github.com/Ventusltd/gemini) | 2026-09-03 04:02:33 |
 | [codex-chatgpt](https://github.com/Ventusltd/codex-chatgpt) | 2026-09-03 04:02:31 |
